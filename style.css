@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 5px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.form {
+    margin-bottom: 20px;
+}
+
+#birthday {
+    padding: 5px;
+}
+
+#result {
+    font-weight: bold;
+}
